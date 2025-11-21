@@ -258,7 +258,3 @@ If you require fully reproducible random results for the parallel analysis, you 
 
 - **Plots not showing up interactively**  
   The scripts save plots directly to files; they do not open interactive windows by default. Check the relevant `results_*` directory for PNG files.
-
-## License / citation
-
-Add your preferred license and any citation or acknowledgment information here (e.g., how to cite the DigiArvi project and CPFQ instruments in publications).
